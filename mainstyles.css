@@ -2,3 +2,12 @@ body{
     background-color: aquamarine;
     font-size: 0%;
 }
+.sectionstyles{
+    float: left;
+    margin: 5px;
+    width: 47%;
+}
+.imghadiks.jpg{
+    width: 50%;
+    height: auto;
+}
